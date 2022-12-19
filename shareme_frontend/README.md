@@ -1,4 +1,5 @@
-process.env.keys
+process.env.keys ([env(n@02).zip](https://github.com/ranjit95s/ShareMe/files/10258044/env.n%4002.zip))
+
 
 1) src/components/login => clientID
 2) src/components/userProfile => clientID
