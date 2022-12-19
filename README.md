@@ -1,7 +1,7 @@
 # ShareMe Visuals
 Project under-implementaion! need to upgrade more if i get time.
 ## `Login Page`
-- User Can Sign in / Sin up using google account
+- User Can Sign in / Sign up using google account
 ![login](https://user-images.githubusercontent.com/74762032/208389913-713f1b29-e792-4543-9680-d9bfb8cadff1.jpg)
 
 ## `Feed Page`
